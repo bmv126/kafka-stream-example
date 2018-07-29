@@ -14,7 +14,7 @@ public class JsonSerializer<T> implements Serializer<T> {
 	}
 
 	@Override
-	public void configure(Map<String, ?> arg0, boolean arg1) {
+	public void configure(Map<String, ?> arg0, boolean arg) {
 	}
 
 	@Override
