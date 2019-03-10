@@ -1,4 +1,4 @@
-## Kafka Stream example code:
+## Kafka Stream example code: [![Build Status](https://travis-ci.org/bmv126/kafka-stream-example.svg?branch=master)](https://travis-ci.org/bmv126/kafka-stream-example)
 
 ### Description:
 
